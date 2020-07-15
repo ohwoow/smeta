@@ -1,0 +1,7 @@
+node_modules
+*src
+.idea
+gulpfile.js
+package.json
+package-lock.json
+/dist
