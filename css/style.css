@@ -5305,6 +5305,16 @@ img {
   background-size: 178px 165px;
 }
 
+.error {
+  display: none;
+  position: absolute;
+  bottom: -25px;
+  left: 0;
+  font-size: 14px;
+  color: red;
+  font-weight: bold;
+}
+
 .header {
   position: absolute;
   top: 0;
